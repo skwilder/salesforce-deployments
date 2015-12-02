@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>dep_p1_class_one</members>
+        <members>dep_class_one</members>
+        <members>dep_common_class_one</members>
+        <members>dep_common_class_two</members>
         <name>ApexClass</name>
     </types>
+    </types>
+    <types>
+        <members>Account.Division__c</members>
+        <name>CustomField</name>
     <version>35.0</version>
 </Package>
