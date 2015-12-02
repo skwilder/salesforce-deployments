@@ -6,9 +6,9 @@
         <members>dep_common_class_two</members>
         <name>ApexClass</name>
     </types>
-    </types>
     <types>
         <members>Account.Division__c</members>
         <name>CustomField</name>
+    </types>
     <version>35.0</version>
 </Package>
